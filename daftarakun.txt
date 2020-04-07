@@ -1,0 +1,8 @@
+
+User/Mahasiswa:
+NIM: 1313618013, Password: passuser1, Nama: user1, Prodi: Ilmu Komputer
+NIM: 1313618102, Password: passuser2, Nama: user2, Prodi: Teknik Komputer
+
+Admin/Pustakawan:
+NIP: 101, Password: passadmin1, Nama: admin1
+NIP: 102, Password: passadmin2, Nama: admin2
