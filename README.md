@@ -16,8 +16,8 @@ Admin:
 - Cari buku berdasarkan judul
 - Tambah jumlah/amount buku yang sudah dicari
 - Melihat seluruh buku yang tersedia
-- Tambah akun baru untuk user
-- Tambah akun baru untuk admin
+- Tambah akun baru untuk user dan melihat seluruh akun user yang sudah terdaftar
+- Tambah akun baru untuk admin dan melihat seluruh akun admin yang sudah terdaftar
 - Tambah buku baru
 
 ### How to use
