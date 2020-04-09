@@ -6,6 +6,20 @@ Aplikasi desktop untuk perpustakaan. Digunakan untuk user dan admin yang memilik
 - MongoDB
 - Library Python : pymongo dan pyqt5
 
+### Fitur
+User:
+- Cari buku berdasarkan judul
+- Pinjam buku yang sudah dicari
+- Melihat seluruh buku yang tersedia
+
+Admin:
+- Cari buku berdasarkan judul
+- Tambah jumlah/amount buku yang sudah dicari
+- Melihat seluruh buku yang tersedia
+- Tambah akun baru untuk user
+- Tambah akun baru untuk admin
+- Tambah buku baru
+
 ### How to use
 1. Unduh/clone repository ini.
 2. Install python, MongoDB, dan library yang diperlukan. Untuk library dapat diinstall melalui cmd: ```pip install <nama library>``` 
