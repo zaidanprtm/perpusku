@@ -28,3 +28,6 @@ Admin:
 5. Login menggunakan akun yang tersedia pada ```daftarakun.txt``` 
 6. Gunakan fitur-fitur yang tersedia baik bagi Admin atau User.
 7. Untuk buku yang baru saja ditambahkan untuk melihat pada daftar buku yang tersedia harus restart app terlebih dahulu.
+
+### Video Penggunaan
+https://youtu.be/2-mEwYAeYpk 
